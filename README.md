@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @radriann21
+- 👀 I’m interested in Web Development, Mobile and IA!
+- 🌱 I’m currently learning/reviewing JavaScript and React
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I study Computer Science and i about to graduate in Superior Tecnician
