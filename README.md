@@ -56,5 +56,5 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </div>
 
 
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/668bd58f501413692bf24794?variant=dark" alt="roadmap.sh"/></a>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/668bd58f501413692bf24794?variant=dark&roadmaps=frontend%2Cjavascript%2Cdatastructures-and-algorithms%2Creact" alt="roadmap.sh"/></a>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=radriann21&show_icons=true&locale=en&layout=compact" alt="radriann21" /></p>
