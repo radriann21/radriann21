@@ -16,7 +16,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <h3 align="center">Other curiosities</h3>
 <br />
 
-- I'm currently learning: React and Databases 🚀
+- I'm currently learning: React Ecosystem (Data Management, Routers, NextJS) 🚀 -> Databases
 - I usually write poetry 🖊
 <br />
 </tr></tr></table> 
