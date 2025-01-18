@@ -31,6 +31,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
         <th>Languages</th>
         <th>Frameworks</th>
         <th>Tools</th>
+        <th>Databases</th>
       </tr>
     </thead>
     <tbody>
@@ -48,6 +49,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
         <td>
           <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=vscode,git,github,vite,netlify,vercel" />
+          </a>
+        </td>
+           <td>
+          <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=postgres" />
           </a>
         </td>
       </tr>
