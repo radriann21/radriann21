@@ -43,7 +43,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
         </td>
         <td>
           <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=react,astro,tailwind" />
+            <img src="https://skillicons.dev/icons?i=react,astro,tailwind,nextjs" />
           </a>
         </td>
         <td>
