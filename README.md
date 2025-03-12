@@ -16,7 +16,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <h3 align="center">Other curiosities</h3>
 <br />
 
-- I'm currently learning: React Ecosystem (NextJS) 🚀 & Databases (PostgreSQL - Supabase)
+- I'm currently learning: Databases (PostgreSQL - Supabase) and Headless CMS (Strapi)
 - I usually write poetry 🖊
 <br />
 </tr></tr></table> 
