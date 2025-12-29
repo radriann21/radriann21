@@ -17,7 +17,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <br />
 
 - I'm currently learning: Databases (PostgreSQL - Supabase) and Headless CMS (Strapi)
-- I usually write poetry 🖊
 <br />
 </tr></tr></table> 
 
