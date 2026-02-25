@@ -37,22 +37,22 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
       <tr>
         <td>
           <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=js,ts,python,php" />
+            <img src="https://skillicons.dev/icons?i=ts,php" />
           </a>
         </td>
         <td>
           <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=react,astro,tailwind,nextjs" />
+            <img src="https://skillicons.dev/icons?i=react,astro,tailwind,nextjs,express,nestjs" />
           </a>
         </td>
         <td>
           <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=vscode,git,github,vite,netlify,vercel" />
+            <img src="https://skillicons.dev/icons?i=git,vite,netlify,vercel,prisma,docker" />
           </a>
         </td>
            <td>
           <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=postgres" />
+            <img src="https://skillicons.dev/icons?i=postgres,sqlite" />
           </a>
         </td>
       </tr>
@@ -62,4 +62,3 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/668bd58f501413692bf24794?variant=dark&roadmaps=react%2Cpostgresql-dba%2Cdatastructures-and-algorithms%2Cjavascript" alt="roadmap.sh"/></a>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=radriann21&show_icons=true&locale=en&layout=compact" alt="radriann21" /></p>
