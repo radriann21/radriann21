@@ -5,9 +5,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   
 <h3 align="center">About me</h3>
 
-- I'm a computer engineering student 💻
+- I'm a computer science graduated 💻
 - Self-taught web developer who loves the JavaScript ecosystem 📚
-- Interested in Mobile and IA 🧠
+- Interested Mobile and IA 🧠
 - I'm from Venezuela 🌎
 - The first language I studied was Python. 🐍
 
@@ -16,7 +16,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <h3 align="center">Other curiosities</h3>
 <br />
 
-- I'm currently learning: Databases (PostgreSQL - Supabase) and Headless CMS (Strapi)
+- I'm currently learning: Go (Golang)
 <br />
 </tr></tr></table> 
 
