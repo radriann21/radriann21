@@ -17,7 +17,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <h3 align="center">Other curiosities</h3>
 <br />
 
-- I'm currently learning: React Native (Expo)
+- I'm currently learning: React Native (Expo) and Rust
 <br />
 </tr></tr></table> 
 
